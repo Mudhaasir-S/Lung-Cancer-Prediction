@@ -27,10 +27,9 @@ The dataset includes features such as:
 
 ---
 
-## 🚀 Getting Started
+## 🚀  Related Links
+📘 Project Notebook
 
-Clone the repository:
+🔗 LinkedIn - [Mudhassir](https://www.linkedin.com/in/mudhassir-s/)
 
-```bash
-git clone https://github.com/your-username/lung-cancer-prediction.git
-cd lung-cancer-prediction
+📧 Contact: mudhassir456@gmail.com

@@ -1,6 +1,6 @@
 # 🫁 Lung Cancer Risk Prediction
 
-![lung cancer image](https://github.com/user-attachments/assets/dcae6a2c-d6b4-4082-9dde-0bdd4b8cb6be)
+![Lung cancer image](https://github.com/user-attachments/assets/e3312178-0b70-476e-a832-8c702965c2b0)
 
 This project leverages machine learning techniques to predict the likelihood of lung cancer based on patient-reported symptoms and habits such as smoking and fatigue. It serves as a simple health-tech prototype for early-stage risk screening.
 
